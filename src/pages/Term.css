@@ -1,0 +1,349 @@
+.img-icon3 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-23 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 56.65px;
+  border-radius: var(--br-8xs);
+  width: 98.52px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage-1-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us3 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom3,
+.ph-no-913 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-913 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.frame-div {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 107.76px);
+  width: 217.97px;
+  height: 79px;
+}
+.footer3,
+.frame-icon {
+  position: absolute;
+  right: 67.01px;
+  bottom: 27.91px;
+  width: 166.97px;
+  height: 29.09px;
+}
+.footer3 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+}
+.required-details3 {
+  color: var(--color-darkslateblue-200);
+}
+.step-3-container3 {
+  position: absolute;
+  top: 109px;
+  left: 108px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  width: 451px;
+  height: 42px;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 0;
+  left: -4.24px;
+  border-radius: 5.31px;
+  width: 160.22px;
+  height: 67.91px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 64.03%;
+  width: 3.9%;
+  top: 17.86%;
+  right: 0;
+  bottom: 18.11%;
+  left: 96.1%;
+}
+.logo-group {
+  position: absolute;
+  top: 15px;
+  left: 57px;
+  width: 1156px;
+  height: 59.42px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 228px;
+  height: 49px;
+}
+.claim3,
+.next3 {
+  position: absolute;
+}
+.next3 {
+  top: 7px;
+  left: 82px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: center;
+}
+.claim3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 549px;
+  left: 773px;
+  width: 228px;
+  height: 49px;
+}
+.username {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 153px;
+}
+.group-child4,
+.username-parent {
+  position: absolute;
+  top: 0;
+  height: 38px;
+}
+.group-child4 {
+  border: 0;
+  background-color: var(--color-white);
+  left: 266px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 253px;
+}
+.username-parent {
+  left: 0;
+  width: 519px;
+}
+.nominee-name {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  display: inline-block;
+  width: 232px;
+}
+.nominee-name-parent {
+  position: absolute;
+  top: 52px;
+  left: 0;
+  width: 519px;
+  height: 38px;
+}
+.policy-id {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  display: inline-block;
+  width: 138px;
+}
+.group-child6 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 254px;
+  height: 38px;
+}
+
+.group-child61 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 10PX;
+  left: 267px;
+  width: 254px;
+  height: 38px;
+}
+
+.group-child62 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 10PX;
+  left: 267px;
+  width: 254px;
+  height: 38px;
+}
+
+.policy-id-parent {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  width: 521px;
+  height: 38px;
+}
+.nominee-id {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+}
+.nominee-id-parent {
+  top: 154px;
+  width: 521px;
+  height: 38px;
+}
+.dob,
+.dob-parent,
+.nominee-id-parent {
+  position: absolute;
+  left: 0;
+}
+.dob {
+  top: 0;
+  display: inline-block;
+  width: 200px;
+}
+.dob-parent {
+  top: 205px;
+  width: 519px;
+  height: 38px;
+}
+.aadhar-number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 240px;
+}
+.group-child9 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 1px;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 254px;
+  height: 38px;
+}
+.aadhar-number-parent,
+.group-container {
+  position: absolute;
+  top: 256px;
+  left: 0;
+  width: 521px;
+  height: 39px;
+}
+.group-container {
+  top: 219px;
+  left: 626px;
+  height: 295px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+}
+.term-life-insurance {
+  position: absolute;
+  top: 178px;
+  left: 26.4px;
+  display: inline-block;
+  width: 159px;
+  height: 45px;
+}
+.clan-family-group-peers-person-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 211.97px;
+  height: 175px;
+  overflow: hidden;
+}
+.project-managment {
+  position: absolute;
+  top: 235px;
+  left: 165px;
+  width: 211.97px;
+  height: 223px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.claim-details4 {
+  position: absolute;
+  top: 151px;
+  left: 626px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.term {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-ibm-plex-serif);
+}

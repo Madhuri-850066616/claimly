@@ -1,0 +1,334 @@
+.img-icon4 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-24 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 56.65px;
+  border-radius: var(--br-8xs);
+  width: 98.52px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage-1-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us4 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom4,
+.ph-no-914 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-914 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-parent1 {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 107.76px);
+  width: 217.97px;
+  height: 79px;
+}
+.footer-child1,
+.footer4 {
+  position: absolute;
+  right: 67.01px;
+  bottom: 27.91px;
+  width: 166.97px;
+  height: 29.09px;
+}
+.footer4 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.required-details4 {
+  color: var(--color-darkslateblue-200);
+}
+.step-4-container {
+  position: absolute;
+  top: 109px;
+  left: 108px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 441px;
+  height: 42px;
+  color: var(--color-black);
+}
+.logo-icon2 {
+  position: absolute;
+  top: 0;
+  left: -4.24px;
+  border-radius: 5.31px;
+  width: 160.22px;
+  height: 67.91px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 64.03%;
+  width: 3.9%;
+  top: 17.86%;
+  right: 0;
+  bottom: 18.11%;
+  left: 96.1%;
+}
+.logo-container {
+  position: absolute;
+  top: 22px;
+  left: 60px;
+  width: 1156px;
+  height: 59.42px;
+}
+.insurance-details {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 270px;
+}
+.insurance-details-wrapper {
+  position: absolute;
+  top: 193px;
+  left: 124px;
+  width: 333px;
+  height: 46px;
+  font-size: 25.64px;
+  color: var(--color-black);
+}
+.uincustomer-no {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 241.06px;
+}
+.group-child10 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4.103148460388184px 4.1px rgba(0, 0, 0, 0.25);
+  width: 224px;
+  height: 38px;
+}
+.uincustomer-no-parent {
+  position: absolute;
+  top: 244px;
+  left: 124px;
+  width: 491px;
+  height: 38px;
+}
+.nominee-name1 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 206.5px;
+}
+.nominee-name-group {
+  position: absolute;
+  top: 295px;
+  left: 124px;
+  width: 491px;
+  height: 38px;
+}
+.policy-number {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 182.59px;
+}
+.policy-number-parent {
+  position: absolute;
+  top: 346px;
+  left: 124px;
+  width: 491px;
+  height: 38px;
+}
+.nominee-relation {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 229.18px;
+}
+.nominee-relation-parent {
+  position: absolute;
+  top: 397px;
+  left: 124px;
+  width: 491px;
+  height: 38px;
+}
+.policy-typename {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  display: inline-block;
+  width: 223.62px;
+}
+.policy-typename-parent {
+  position: absolute;
+  top: 448px;
+  left: 124px;
+  width: 491px;
+  height: 38px;
+}
+.bank-details1 {
+  position: absolute;
+  top: 193px;
+  left: 719px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.bank-branch1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: inline-block;
+  width: 175px;
+}
+.b3-child1,
+.b33 {
+  position: absolute;
+  height: 38px;
+}
+.b3-child1 {
+  border: 0;
+  background-color: var(--color-white);
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 224px;
+}
+.b33 {
+  top: 242px;
+  left: 719px;
+  width: 491px;
+}
+.account-number {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 205px;
+}
+.b13 {
+  position: absolute;
+  top: 293px;
+  left: 719px;
+  width: 491px;
+  height: 38px;
+}
+.ifsc-code1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 240px;
+}
+.b43 {
+  position: absolute;
+  top: 344px;
+  left: 719px;
+  width: 491px;
+  height: 38px;
+}
+.claim-child1 {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 228px;
+  height: 49px;
+}
+.claim-child1,
+.claim4,
+.finish {
+  position: absolute;
+}
+.finish {
+  top: 10px;
+  left: 82px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+}
+.claim4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 485px;
+  left: 848px;
+  width: 228px;
+  height: 49px;
+}
+.general-details {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-ibm-plex-serif);
+}

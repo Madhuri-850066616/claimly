@@ -1,0 +1,359 @@
+.img-icon {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-2 {
+  position: absolute;
+  bottom: 15px;
+  left: 52.65px;
+  border-radius: var(--br-8xs);
+  width: 106.52px;
+  height: 47px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.contact-us {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom,
+.ph-no-91 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-91 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-parent {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 107.76px);
+  width: 217.97px;
+  height: 79px;
+}
+.footer,
+.footer-child {
+  position: absolute;
+  right: 67.01px;
+  bottom: 27.91px;
+  width: 166.97px;
+  height: 29.09px;
+}
+.footer {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+}
+.required-details {
+  color: var(--color-darkslateblue-200);
+}
+.step-3-container {
+  position: absolute;
+  top: 109px;
+  left: 108px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 451px;
+  height: 42px;
+}
+.logo,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logo {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 5.31px;
+  width: 151.73px;
+  height: 59.42px;
+  background-image: url(/public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.vector-icon {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 64.03%;
+  width: 3.9%;
+  top: 17.86%;
+  right: 0;
+  bottom: 18.11%;
+  left: 96.1%;
+}
+.logo-parent {
+  position: absolute;
+  top: 22px;
+  left: 60px;
+  width: 1156px;
+  height: 59.42px;
+}
+.claim-child {
+  cursor: pointer;
+  border: 1.7px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  top: 46px;
+  left: 0;
+  border-radius: 41.65px;
+  box-sizing: border-box;
+  width: 189.93px;
+  height: 40.82px;
+}
+.claim,
+.claim-child,
+.next {
+  position: absolute;
+}
+.next {
+  top: 51.33px;
+  left: 68.31px;
+  font-size: 18.33px;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+}
+.claim {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 542px;
+  left: 750px;
+  width: 189.93px;
+  height: 40.82px;
+}
+.opd-number {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  display: inline-block;
+  width: 127.45px;
+}
+.group-child,
+.opd-number-parent {
+  position: absolute;
+  top: 0;
+  height: 31.65px;
+}
+.group-child {
+  border: 0;
+  background-color: var(--color-white);
+  left: 221.58px;
+  box-shadow: 0 3.3320536613464355px 3.33px rgba(0, 0, 0, 0.25);
+  width: 210.75px;
+}
+.opd-number-parent {
+  left: 0;
+  width: 432.33px;
+}
+.hospital-number {
+  position: absolute;
+  top: 4.17px;
+  left: 0;
+  display: inline-block;
+  width: 193.26px;
+}
+.hospital-number-parent {
+  position: absolute;
+  top: 43.32px;
+  left: 0;
+  width: 432.33px;
+  height: 31.65px;
+}
+.department-name {
+  position: absolute;
+  top: 4.17px;
+  left: 0;
+  display: inline-block;
+  width: 154.11px;
+}
+.group-inner {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 222.41px;
+  box-shadow: 0 3.3320536613464355px 3.33px rgba(0, 0, 0, 0.25);
+  width: 211.59px;
+  height: 31.65px;
+}
+.group-inner1 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 10px;
+  left: 222.41px;
+  width: 211.59px;
+  height: 31.65px;
+}
+.aupload{
+  position: absolute;
+  top: 294.8px;
+  left: 0;  
+  width: 434px;
+  height: 31.65px;
+}
+.bupload{
+  position: absolute;
+  top: 340.8px;
+  left: 0;
+  width: 434px;
+  height: 31.65px;
+}
+.department-name-parent {
+  position: absolute;
+  top: 85.8px;
+  left: 0;
+  width: 434px;
+  height: 31.65px;
+}
+.date-of-joining {
+  position: absolute;
+  top: 0.83px;
+  left: 0;
+  display: inline-block;
+  width: 147.44px;
+}
+.date-of-joining-parent {
+  position: absolute;
+  top: 128.28px;
+  left: 0;
+  width: 434px;
+  height: 31.65px;
+}
+.bill-amount {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 115.79px;
+}
+.bill-amount-parent {
+  position: absolute;
+  top: 170.77px;
+  left: 0;
+  width: 432.33px;
+  height: 31.65px;
+}
+.head-doctor-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 199.92px;
+}
+.group-child2 {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0.83px;
+  left: 222.41px;
+  box-shadow: 0 3.3320536613464355px 3.33px rgba(0, 0, 0, 0.25);
+  width: 211.59px;
+  height: 31.65px;
+}
+.group-parent,
+.head-doctor-name-parent {
+  position: absolute;
+  top: 213.25px;
+  left: 0;
+  width: 434px;
+  height: 32.49px;
+}
+.group-parent {
+  top: 200.49px;
+  left: 621px;
+  height: 245.74px;
+  color: var(--color-darkslateblue-100);
+}
+.claim-details {
+  position: absolute;
+  top: 163px;
+  left: 621px;
+  font-size: 20.83px;
+  font-weight: 500;
+}
+.medical-insurance {
+  position: absolute;
+  top: 152.59px;
+  left: 0;
+  display: inline-block;
+  width: 222.65px;
+  height: 35.38px;
+}
+.health-healthcare-medical-icon {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  width: 153.91px;
+  height: 122.09px;
+  overflow: hidden;
+}
+.interior-design {
+  position: absolute;
+  top: 255px;
+  left: 167px;
+  width: 222.65px;
+  height: 187.97px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.uhi-id-parent {
+  position: absolute;
+  top: 456.22px;
+  left: 621px;
+  width: 434px;
+  height: 32.49px;
+  color: var(--color-darkslateblue-100);
+}
+.medical {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16.66px;
+  color: var(--color-black);
+  font-family: var(--font-ibm-plex-serif);
+}

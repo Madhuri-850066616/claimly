@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&display=swap");
+body {
+  margin: 0%;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-ibm-plex-serif: "IBM Plex Serif";
+  --font-ibm-plex-mono: "IBM Plex Mono";
+
+  /* font sizes */
+  --font-size-base-7: 15.7px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-lg-1: 18.1px;
+  --font-size-2xl-3: 21.3px;
+  --font-size-lgi-4: 19.4px;
+  --font-size-xl-5: 20.5px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue-100: #323b71;
+  --color-darkslateblue-200: #141d51;
+  --color-black: #000;
+  --color-gray-100: #272222;
+  --dark: #161616;
+  --color-gray-200: rgba(0, 0, 0, 0.67);
+  --color-lightgray: #d2d2d2;
+  --color-lavender: #e9efff;
+  --color-darkslategray: rgba(51, 50, 49, 0.68);
+
+  /* Paddings */
+  /* --padding-smi-8: 12.8px;
+  --padding-lg-4: 18.4px;
+  --padding-26xl-6: 45.6px;
+  --padding-3xs: 10px;
+  --padding-2xl: 21px;
+  --padding-4xl: 23px; */
+
+  /* border radiuses */
+  /* --br-7xs-3: 5.3px;
+  --br-8xs: 5px;
+  --br-31xl: 50px;
+  --br-20xl-3: 39.3px; */
+}
