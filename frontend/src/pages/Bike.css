@@ -1,0 +1,376 @@
+.img-icon2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 56.65px;
+  border-radius: var(--br-8xs);
+  width: 98.52px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage-1-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us2 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom2,
+.ph-no-912 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-912 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-container {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 107.76px);
+  width: 217.97px;
+  height: 79px;
+}
+.footer-inner,
+.footer2 {
+  position: absolute;
+  right: 67.01px;
+  bottom: 27.91px;
+  width: 166.97px;
+  height: 29.09px;
+}
+.footer2 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.header1,
+.logo1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.logo1 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 143px;
+  height: 56px;
+  flex-shrink: 0;
+  background-image: url(/public/logo2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.header1 {
+  position: absolute;
+  height: 2.8%;
+  width: 11.92%;
+  top: 4.44%;
+  right: 84.33%;
+  bottom: 92.76%;
+  left: 3.75%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chassis-number1,
+.claim-details2 {
+  position: absolute;
+  display: inline-block;
+}
+.claim-details2 {
+  top: 951px;
+  left: 79px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  width: 189px;
+  height: 28px;
+}
+.chassis-number1 {
+  top: 3px;
+  left: 0;
+  width: 205px;
+  height: 35px;
+}
+.b2-inner {
+  border: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 172px;
+  height: 38px;
+}
+.b22 {
+  top: 67px;
+  width: 439px;
+  height: 38px;
+}
+.b11,
+.b22,
+.license-number {
+  position: absolute;
+  left: 0;
+}
+.license-number {
+  top: 3px;
+  display: inline-block;
+  width: 205px;
+}
+.b11 {
+  top: 2px;
+  width: 439px;
+  height: 38px;
+}
+.bank-branch {
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 175px;
+}
+.b31,
+.bank-branch,
+.ifsc-code {
+  position: absolute;
+}
+.b31 {
+  top: 0;
+  left: 602px;
+  width: 439px;
+  height: 38px;
+}
+.ifsc-code {
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 240px;
+}
+.b41,
+.bank-details {
+  position: absolute;
+  top: 65px;
+  left: 602px;
+  width: 439px;
+  height: 38px;
+}
+.bank-details {
+  top: 1130px;
+  left: 77px;
+  width: 1041px;
+  height: 105px;
+  font-size: var(--font-size-6xl);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 5.28%;
+  width: 3.52%;
+  top: 5.77%;
+  right: 5.21%;
+  bottom: 88.94%;
+  left: 91.27%;
+}
+.bike-insurance1 {
+  margin: 0;
+}
+.bike-insurance {
+  position: absolute;
+  top: 171.46px;
+  left: 0;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 300px;
+  height: 44.17px;
+}
+.and-bike-cross-moto-motorcycle-icon {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  width: 191px;
+  height: 163.44px;
+  overflow: hidden;
+}
+.decorotive-services {
+  position: absolute;
+  top: 209.37px;
+  left: 132px;
+  width: 300px;
+  height: 215.63px;
+  text-align: center;
+  color: var(--color-darkslateblue-200);
+}
+.claim-details3 {
+  position: absolute;
+  top: 171px;
+  left: 621px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.license-branch1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: inline-block;
+  width: 175px;
+}
+.b3-inner,
+.b32 {
+  position: absolute;
+  height: 38px;
+}
+.b3-inner {
+  border: 0;
+  background-color: var(--color-white);
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 254px;
+}
+.b32 {
+  top: 234px;
+  left: 621px;
+  width: 521px;
+}
+.chassis-number2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 205px;
+}
+.b12,
+.b42 {
+  position: absolute;
+  top: 285px;
+  left: 621px;
+  width: 521px;
+  height: 38px;
+}
+.b42 {
+  top: 336px;
+}
+.vehicle-model1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+}
+.b23,
+.b24 {
+  position: absolute;
+  top: 387px;
+  left: 621px;
+  width: 521px;
+  height: 38px;
+}
+.b24 {
+  top: 438px;
+}
+.required-details2 {
+  color: var(--color-darkslateblue-200);
+}
+.step-3-container2 {
+  position: absolute;
+  top: 110px;
+  left: 120px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  width: 393px;
+  height: 42px;
+  color: var(--color-black);
+}
+.claim-inner {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 228px;
+  height: 49px;
+}
+.claim-inner,
+.claim2,
+.next2 {
+  position: absolute;
+}
+.next2 {
+  top: 10px;
+  left: 82px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+}
+.claim2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 531px;
+  left: 774px;
+  width: 228px;
+  height: 49px;
+}
+.bike {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-ibm-plex-serif);
+}

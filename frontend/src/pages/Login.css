@@ -1,0 +1,281 @@
+.email5,
+.login-child,
+.password1 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.login-child {
+  top: 874.25px;
+  left: 616.39px;
+  border-top: 1.3px solid var(--color-black);
+  width: 613.22px;
+  height: 1.28px;
+  display: none;
+}
+.email5,
+.password1 {
+  border: 1.3px solid var(--color-lightgray);
+  font-family: var(--font-ibm-plex-serif);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-white);
+  height: 6.39%;
+  width: 29.08%;
+  top: 30.69%;
+  right: 35.42%;
+  bottom: 62.92%;
+  left: 35.5%;
+  box-shadow: 0 5.131353378295898px 5.13px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 9px 7px;
+  align-items: center;
+  justify-content: flex-start;
+}
+div.fixed-rectangle {
+  position: absolute;
+  width: 100%;
+  height: 81px;
+  background-color: #e9efff;
+  bottom: 0%;
+  font-size: small;
+  text-align: center;
+  /* width: 100%; */
+}
+.password1 {
+  height: 6.11%;
+  right: 3px;
+  top: 40.42%;
+  bottom: 53.47%;
+  padding: 9px 7px;
+}
+.ui-essential-app-avatar-profil3 {
+  position: absolute;
+  top: 101.34px;
+  left: 781.25px;
+  width: 41.05px;
+  height: 39.77px;
+  overflow: hidden;
+}
+.continue4 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  flex-shrink: 0;
+}
+.continue3,
+.login4 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.continue3 {
+  cursor: pointer;
+  border: 1.3px solid var(--color-lightgray);
+  padding: 12.828383445739746px;
+  background-color: var(--color-darkslateblue-100);
+  height: 6.67%;
+  width: 18.92%;
+  top: 57.22%;
+  right: 40.54%;
+  bottom: 36.11%;
+  left: 40.55%;
+  box-shadow: 0 5.131353378295898px 5.13px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  overflow: hidden;
+  align-items: center;
+}
+.login4 {
+  height: 4.72%;
+  width: 7.25%;
+  top: 22.78%;
+  right: 46.58%;
+  bottom: 72.5%;
+  left: 46.17%;
+  align-items: flex-start;
+  text-align: center;
+  color: var(--color-gray-100);
+}
+.forgot-password1 {
+  position: relative;
+  font-size: 20.53px;
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+  cursor: pointer;
+}
+.forgot-password-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.28%;
+  width: 17.95%;
+  top: 49.74%;
+  right: 41.47%;
+  bottom: 46.98%;
+  left: 40.58%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.span {
+  font-weight: 500;
+  color: var(--color-darkslateblue-200);
+}
+.dont-have-an-container,
+.sign-up2 {
+  position: relative;
+}
+.sign-up2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 20.53px;
+  font-weight: 700;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+  display: inline-block;
+}
+.dont-have-an-account-parent {
+  position: absolute;
+  height: 3.75%;
+  width: 31.92%;
+  top: 68.19%;
+  right: 36.83%;
+  bottom: 28.06%;
+  left: 34%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-size: 20.53px;
+}
+.frame-button,
+.microsoftteams-image-1-214 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.microsoftteams-image-1-214 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 264px;
+  height: 107px;
+  flex-shrink: 0;
+  background-image: url(/public/microsoftteamsimage124@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: difference;
+}
+.frame-button {
+  position: absolute;
+  height: 14.86%;
+  width: 22%;
+  top: 7.5%;
+  right: 39%;
+  bottom: 77.64%;
+  left: 39%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.img-icon11 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-215 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 45.89px;
+  border-radius: var(--br-8xs);
+  width: 79.8px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage122@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us11 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom11,
+.ph-no-9111 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-9111 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-parent8 {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 87.28px);
+  width: 176.56px;
+  height: 79px;
+}
+.group-child21,
+.img-parent4 {
+  position: absolute;
+  right: 53.94px;
+  bottom: 27.91px;
+  width: 135.59px;
+  height: 29.09px;
+}
+.img-parent4 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+}
+.login3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 600px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-ibm-plex-serif);
+}

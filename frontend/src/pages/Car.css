@@ -1,0 +1,290 @@
+.img-icon1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-21 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 56.65px;
+  border-radius: var(--br-8xs);
+  width: 98.52px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage-1-2@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us1 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom1,
+.ph-no-911 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-911 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-group {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 107.76px);
+  width: 217.97px;
+  height: 79px;
+}
+.footer-item,
+.footer1 {
+  position: absolute;
+  right: 67.01px;
+  bottom: 27.91px;
+  width: 166.97px;
+  height: 29.09px;
+}
+.footer1 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.logo-icon {
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 151px;
+  height: 64px;
+  flex-shrink: 0;
+  object-fit: cover;
+  cursor: pointer;
+}
+.header {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.8%;
+  width: 11.92%;
+  top: 1.45%;
+  right: 84.67%;
+  bottom: 95.75%;
+  left: 3.42%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 5.28%;
+  width: 3.52%;
+  top: 2.36%;
+  right: 5.23%;
+  bottom: 92.35%;
+  left: 91.25%;
+}
+.claim-details1 {
+  position: absolute;
+  top: 183px;
+  left: 564px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.license-branch {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: inline-block;
+  width: 175px;
+}
+.b3,
+.b3-child {
+  position: absolute;
+  height: 38px;
+}
+.b3-child {
+  border: 0;
+  background-color: var(--color-white);
+  top: 0;
+  left: 267px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 254px;
+}
+.b3 {
+  top: 232px;
+  left: 564px;
+  width: 521px;
+}
+.chassis-number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 205px;
+}
+.b1 {
+  position: absolute;
+  top: 283px;
+  left: 564px;
+  width: 521px;
+  height: 38px;
+}
+.vehicle-number {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 240px;
+}
+.b4 {
+  position: absolute;
+  top: 334px;
+  left: 564px;
+  width: 521px;
+  height: 38px;
+}
+.vehicle-model {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+}
+.b2,
+.b21 {
+  position: absolute;
+  top: 385px;
+  left: 564px;
+  width: 521px;
+  height: 38px;
+}
+.b21 {
+  top: 436px;
+}
+.required-details1 {
+  color: var(--color-darkslateblue-200);
+}
+.step-3-container1 {
+  position: absolute;
+  top: 110px;
+  left: 120px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  width: 393px;
+  height: 42px;
+  color: var(--color-black);
+}
+.claim-item {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 228px;
+  height: 49px;
+}
+.claim-item,
+.claim1,
+.next1 {
+  position: absolute;
+}
+.next1 {
+  top: 10px;
+  left: 82px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+}
+.claim1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 542px;
+  left: 690px;
+  width: 228px;
+  height: 49px;
+}
+.car-insurance {
+  position: absolute;
+  top: 182.12px;
+  left: 0;
+  display: inline-block;
+  width: 219.4px;
+  height: 35.38px;
+}
+.car-directions-icon-1 {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  width: 192px;
+  height: 162.91px;
+  overflow: hidden;
+}
+.space-planing {
+  position: absolute;
+  top: 228px;
+  left: 155px;
+  width: 219.4px;
+  height: 217.51px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.car {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-ibm-plex-serif);
+}

@@ -1,0 +1,274 @@
+.header2,
+.logo-icon3 {
+  position: absolute;
+  cursor: pointer;
+}
+.header2 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 7.78%;
+  width: 11.92%;
+  top: 4.03%;
+  right: 84.92%;
+  bottom: 88.19%;
+  left: 3.17%;
+}
+.logo-icon3 {
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-8xs);
+  width: 151px;
+  height: 64px;
+  object-fit: cover;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-person5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 64.03%;
+  width: 3.89%;
+  top: 17.86%;
+  right: 0;
+  bottom: 18.11%;
+  left: 96.11%;
+}
+.group-div,
+.step-2-choose {
+  position: absolute;
+  top: 29px;
+  left: 38px;
+  width: 1164.67px;
+  height: 56px;
+}
+.step-2-choose {
+  top: 118px;
+  left: 133px;
+  display: inline-block;
+  width: 375px;
+  height: 41px;
+}
+.medical2 {
+  margin: 0;
+}
+.medical1 {
+  position: absolute;
+  top: 130.59px;
+  left: 0;
+  display: inline-block;
+  width: 222.65px;
+  height: 35.38px;
+}
+.health-healthcare-medical-icon1 {
+  position: absolute;
+  top: 0;
+  left: 58.51px;
+  width: 107.26px;
+  height: 85.09px;
+  overflow: hidden;
+}
+.interior-design1 {
+  position: absolute;
+  top: 22.75px;
+  left: 0;
+  width: 222.65px;
+  height: 165.97px;
+  cursor: pointer;
+}
+.bike1 {
+  position: absolute;
+  top: 144.07px;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-darkslateblue-200);
+  text-align: center;
+  display: inline-block;
+  width: 219.4px;
+  height: 35.38px;
+}
+.and-bike-cross-moto-motorcycle-icon1 {
+  position: absolute;
+  top: 0;
+  left: 50.38px;
+  width: 118.64px;
+  height: 111.21px;
+  overflow: hidden;
+}
+.decorotive-services1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9.27px;
+  left: 247.03px;
+  width: 219.4px;
+  height: 179.45px;
+}
+.car-icon {
+  position: absolute;
+  top: 149.64px;
+  left: 55.77px;
+  width: 25.1px;
+  height: 11.55px;
+}
+.car-directions-icon-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 136px;
+  height: 118px;
+  overflow: hidden;
+}
+.space-planing1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 546px;
+  width: 136px;
+  height: 161.19px;
+}
+.term-life {
+  position: absolute;
+  top: 152px;
+  left: 10.4px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-darkslateblue-200);
+  text-align: center;
+  display: inline-block;
+  width: 151px;
+  height: 36px;
+}
+.clan-family-group-peers-person-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 172px;
+  height: 142px;
+  overflow: hidden;
+}
+.project-managment1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 783.6px;
+  width: 172px;
+  height: 188px;
+}
+.icons {
+  position: absolute;
+  top: 265px;
+  left: 129px;
+  width: 955.6px;
+  height: 188.72px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.img-icon5 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-25 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 43.87px;
+  border-radius: var(--br-8xs);
+  width: 76.3px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage12@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us5 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom5,
+.ph-no-915 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-915 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-parent2 {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 83.93px);
+  width: 168.82px;
+  height: 79px;
+}
+.group-child15,
+.img-parent {
+  position: absolute;
+  right: 45.63px;
+  bottom: 27.91px;
+  width: 135.59px;
+  height: 29.09px;
+}
+.img-parent {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  font-size: var(--font-size-sm);
+}
+.insurance {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-ibm-plex-serif);
+}

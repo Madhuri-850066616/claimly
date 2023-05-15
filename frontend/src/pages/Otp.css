@@ -1,0 +1,204 @@
+.email4,
+.otp-child {
+  position: absolute;
+  box-sizing: border-box;
+}
+.otp-child {
+  top: 874.25px;
+  left: 616.39px;
+  border-top: 1.3px solid var(--color-black);
+  width: 613.22px;
+  height: 1.28px;
+  display: none;
+}
+.email4 {
+  border: 1.3px solid var(--color-lightgray);
+  font-family: var(--font-ibm-plex-serif);
+  font-size: var(--font-size-xl);
+  background-color: var(--color-white);
+  height: 6.39%;
+  width: 27.83%;
+  top: 39.58%;
+  right: 34.92%;
+  bottom: 54.03%;
+  left: 37.25%;
+  box-shadow: 0 5.131353378295898px 5.13px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-2xl);
+  align-items: center;
+  justify-content: flex-start;
+}
+.ui-essential-app-avatar-profil2 {
+  position: absolute;
+  top: 101.34px;
+  left: 781.25px;
+  width: 41.05px;
+  height: 39.77px;
+  overflow: hidden;
+}
+.send-otp {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 105px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.continue2 {
+  cursor: pointer;
+  border: 1.3px solid var(--color-lightgray);
+  padding: 12.828383445739746px;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  height: 6.67%;
+  width: 18.92%;
+  top: 51.25%;
+  right: 39.33%;
+  bottom: 42.08%;
+  left: 41.75%;
+  box-shadow: 0 5.131353378295898px 5.13px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.forget-password1 {
+  position: relative;
+}
+.login2 {
+  position: absolute;
+  height: 4.72%;
+  width: 14.76%;
+  top: 29.44%;
+  right: 41.46%;
+  bottom: 65.83%;
+  left: 43.78%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+.microsoftteams-image-1-212 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  border-radius: var(--br-8xs);
+  width: 264px;
+  height: 107px;
+  flex-shrink: 0;
+  background-image: url(/public/microsoftteamsimage124@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: difference;
+}
+.microsoftteams-image-1-2-frame {
+  position: absolute;
+  height: 14.86%;
+  width: 22%;
+  top: 7.5%;
+  right: 39%;
+  bottom: 77.64%;
+  left: 39%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.img-icon10 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 84px;
+}
+.microsoftteams-image-1-213 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  bottom: 23px;
+  left: 45.89px;
+  border-radius: var(--br-8xs);
+  width: 79.8px;
+  height: 39px;
+  background-image: url(/public/microsoftteamsimage122@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact-us10 {
+  position: absolute;
+  top: 0;
+  left: 26.5px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 124px;
+  height: 34px;
+}
+.email-claimlygmailcom10,
+.ph-no-9110 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  display: inline-block;
+  width: 177px;
+  height: 21px;
+}
+.ph-no-9110 {
+  top: 59px;
+  left: 13px;
+  width: 151px;
+  height: 20px;
+}
+.contact-us-parent7 {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 87.28px);
+  width: 176.56px;
+  height: 79px;
+}
+.group-child20,
+.img-parent3 {
+  position: absolute;
+  right: 53.94px;
+  bottom: 27.91px;
+  width: 135.59px;
+  height: 29.09px;
+}
+.img-parent3 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 84px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.otp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 720px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-ibm-plex-serif);
+}

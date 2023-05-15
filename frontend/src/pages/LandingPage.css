@@ -1,0 +1,824 @@
+.child {
+  position: absolute;
+  top: 0;
+  left: 680px;
+  background-color: var(--color-darkslateblue-100);
+  width: 478px;
+  height: 750px;
+}
+.img-3620-1-icon {
+  position: absolute;
+  top: 168px;
+  left: 552px;
+  border-radius: 20px;
+  width: 483px;
+  height: 480px;
+  object-fit: cover;
+}
+.c {
+  letter-spacing: 0.01em;
+}
+.claimly,
+.claims-made-easier {
+  position: absolute;
+  top: 283px;
+  left: -18px;
+}
+.claims-made-easier {
+  top: 390px;
+  font-size: 29px;
+  font-family: var(--font-ibm-plex-mono);
+  color: var(--color-darkslateblue-200);
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 122px;
+  width: 1158px;
+  height: 750px;
+  font-size: 66px;
+}
+.no-more-traditional {
+  position: absolute;
+  top: 235px;
+  left: 0;
+  display: inline-block;
+  width: 255px;
+  height: 81px;
+}
+.super-simple-claims {
+  position: absolute;
+  top: 193px;
+  left: 0;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+}
+.bg-icon {
+  position: absolute;
+  top: 0;
+  left: 71px;
+  width: 122px;
+  height: 122px;
+  object-fit: cover;
+}
+.basic-child {
+  position: absolute;
+  top: 160.5px;
+  left: 50.5px;
+  background-color: var(--color-lightgray);
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 154px;
+  height: 1px;
+}
+.basic,
+.our-customer-safety {
+  position: absolute;
+  top: 149px;
+  left: 0;
+  width: 263px;
+  height: 316px;
+}
+.our-customer-safety {
+  top: 235px;
+  display: inline-block;
+  height: 106px;
+}
+.secured-claims {
+  position: absolute;
+  top: 193px;
+  left: 36px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+}
+.bg-icon1 {
+  position: absolute;
+  top: 0;
+  left: 67px;
+  width: 129px;
+  height: 122px;
+  object-fit: cover;
+}
+.premium-child {
+  position: absolute;
+  top: 160.5px;
+  left: 51.5px;
+  background-color: var(--color-lightgray);
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 154px;
+  height: 1px;
+}
+.premium {
+  position: absolute;
+  top: 147px;
+  left: 679px;
+  width: 263px;
+  height: 341px;
+}
+.our-customers-who {
+  position: absolute;
+  top: 251px;
+  left: 0;
+  display: inline-block;
+  width: 272px;
+  height: 121px;
+}
+.customer-friendly {
+  position: absolute;
+  top: 209px;
+  left: 23px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-black);
+  text-align: left;
+}
+.bg-icon2 {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  width: 151px;
+  height: 138px;
+  object-fit: cover;
+}
+.standart-child {
+  position: absolute;
+  top: 176.5px;
+  left: 56.5px;
+  background-color: var(--color-lightgray);
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 154px;
+  height: 1px;
+}
+.standart {
+  position: absolute;
+  top: 133px;
+  left: 335px;
+  width: 272px;
+  height: 372px;
+}
+.us {
+  color: var(--color-darkslateblue-100);
+}
+.div2,
+.why-us-container {
+  position: absolute;
+  top: 0;
+  left: 380px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+  color: var(--color-black);
+}
+.div2 {
+  top: 2897px;
+  left: 169px;
+  width: 942px;
+  height: 505px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.about-us {
+  position: relative;
+}
+.claimly-began-its {
+  margin: 0;
+}
+.claimly-began-its-container {
+  position: relative;
+  font-size: 18.11px;
+  line-height: 170%;
+  display: inline-block;
+  width: 849px;
+  flex-shrink: 0;
+}
+.div3,
+.group-child22 {
+  background-color: var(--color-lavender);
+  position: absolute;
+  left: 0;
+  box-sizing: border-box;
+}
+.div3 {
+  height: 8.18%;
+  width: 100%;
+  top: 18.93%;
+  right: 0;
+  bottom: 72.89%;
+  display: flex;
+  flex-direction: row;
+  padding: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 141px;
+}
+.group-child22 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  top: 0;
+  border-radius: var(--br-31xl);
+  width: 104.55px;
+  height: 46px;
+}
+.login6 {
+  position: absolute;
+  top: 10px;
+  left: 32.67px;
+  display: inline-block;
+  width: 83.94px;
+  height: 13.16px;
+}
+.rectangle-parent {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 2.5px;
+  width: 116.61px;
+  height: 46px;
+  flex-shrink: 0;
+  cursor: pointer;
+  z-index: 0;
+}
+.sign-up3 {
+  position: absolute;
+  top: 10px;
+  left: 26.95px;
+  display: inline-block;
+  width: 128.2px;
+  height: 13.16px;
+}
+.rectangle-group {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 119.12px;
+  width: 155.16px;
+  height: 46px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.right-text {
+  position: absolute;
+  height: 46.46%;
+  width: 19.82%;
+  top: 22.22%;
+  right: 0;
+  bottom: 31.31%;
+  left: 80.18%;
+  display: flex;
+  flex-direction: row;
+  padding: 0 77px 0 0;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.about-us1,
+.contact-us12,
+.why-us {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0.12px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--dark);
+  text-align: left;
+  display: inline-block;
+  width: 70px;
+  height: 26px;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.contact-us12,
+.why-us {
+  left: 85px;
+  width: 81px;
+  z-index: 1;
+}
+.why-us {
+  left: 185.18px;
+  width: 71px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+  z-index: 2;
+}
+.left-text {
+  position: absolute;
+  height: 26.26%;
+  width: 24.8%;
+  top: 32.32%;
+  right: 49.02%;
+  bottom: 41.41%;
+  left: 26.18%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.microsoftteams-image-1-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 187px;
+  height: 99px;
+  flex-shrink: 0;
+  background-image: url(/public/microsoftteamsimage11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 0;
+}
+.microsoftteams-image-1-1-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 16.55%;
+  top: 0;
+  right: 83.45%;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header5 {
+  position: absolute;
+  height: 2.5%;
+  width: 88.28%;
+  top: 0.83%;
+  right: 5.94%;
+  bottom: 96.67%;
+  left: 5.78%;
+  font-size: var(--font-size-base);
+  color: var(--dark);
+}
+.our {
+  color: var(--color-black);
+}
+.medical-insurance1,
+.our-services {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.medical-insurance1 {
+  top: 130.59px;
+  display: inline-block;
+  width: 222.65px;
+  height: 35.38px;
+}
+.health-healthcare-medical-icon2 {
+  position: absolute;
+  top: 0;
+  left: 58.51px;
+  width: 107.26px;
+  height: 85.09px;
+  overflow: hidden;
+}
+.bike-insurance2,
+.interior-design2 {
+  position: absolute;
+  top: 22.75px;
+  left: 0;
+  width: 222.65px;
+  height: 165.97px;
+}
+.bike-insurance2 {
+  top: 144.07px;
+  display: inline-block;
+  width: 219.4px;
+  height: 35.38px;
+}
+.and-bike-cross-moto-motorcycle-icon2 {
+  position: absolute;
+  top: 0;
+  left: 50.38px;
+  width: 118.64px;
+  height: 111.21px;
+  overflow: hidden;
+}
+.car-insurance1,
+.decorotive-services2 {
+  position: absolute;
+  top: 9.27px;
+  left: 247.03px;
+  width: 219.4px;
+  height: 179.45px;
+}
+.car-insurance1 {
+  top: 149.12px;
+  left: 0;
+  display: inline-block;
+  height: 35.38px;
+}
+.car-directions-icon-12 {
+  position: absolute;
+  top: 0;
+  left: 54.44px;
+  width: 111.33px;
+  height: 103.63px;
+  overflow: hidden;
+}
+.space-planing2 {
+  position: absolute;
+  top: 4.21px;
+  left: 490.81px;
+  width: 219.4px;
+  height: 184.51px;
+}
+.term-life-insurance-container {
+  position: absolute;
+  top: 154px;
+  left: 34.4px;
+  display: inline-block;
+  width: 103px;
+  height: 45px;
+}
+.clan-family-group-peers-person-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 172px;
+  height: 142px;
+  overflow: hidden;
+}
+.icons1,
+.project-managment2 {
+  position: absolute;
+  top: 0;
+  left: 783.6px;
+  width: 172px;
+  height: 199px;
+}
+.icons1 {
+  top: 104px;
+  left: 30px;
+  width: 955.6px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-200);
+}
+.button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 2.5px solid #505050;
+  box-sizing: border-box;
+  width: 213px;
+  height: 44px;
+}
+.claim5 {
+  position: absolute;
+  top: 9px;
+  left: 83px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-ibm-plex-serif);
+  color: var(--color-black);
+  text-align: left;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 395px;
+  left: 401px;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 213px;
+  height: 44px;
+}
+.bg,
+.button,
+.div4 {
+  position: absolute;
+}
+.div4 {
+  top: 1205px;
+  left: 103px;
+  width: 1074px;
+  height: 499px;
+  text-align: center;
+  color: var(--color-darkslateblue-100);
+}
+.bg {
+  top: 0;
+  left: 0;
+  background-color: #f3f3f3;
+  width: 1280px;
+  height: 1010px;
+}
+.our-partnered-banks-container {
+  position: absolute;
+  top: 81px;
+  left: 437px;
+  display: inline-block;
+  width: 406px;
+}
+.img-icon12,
+.img-icon13,
+.img-icon14,
+.img-icon15,
+.img-icon16,
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-31xl);
+  width: 226.68px;
+  height: 197.52px;
+  object-fit: cover;
+}
+.img-icon13,
+.img-icon14,
+.img-icon15,
+.img-icon16,
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  top: 265.33px;
+}
+.img-icon14,
+.img-icon15,
+.img-icon16,
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  top: 0;
+  left: 258.41px;
+}
+.img-icon15,
+.img-icon16,
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  top: 265.33px;
+}
+.img-icon16,
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  top: 0;
+  left: 520.83px;
+}
+.img-icon17,
+.img-icon18,
+.img-icon19 {
+  top: 265.33px;
+}
+.img-icon18,
+.img-icon19 {
+  top: 0;
+  left: 783.24px;
+}
+.img-icon19 {
+  top: 265.33px;
+}
+.canara1,
+.indian-overseas1,
+.kotak-mahindra1,
+.sib1 {
+  position: absolute;
+  top: 471px;
+  left: 896.44px;
+  display: inline-block;
+  width: 48.78px;
+  height: 20px;
+}
+.canara1,
+.indian-overseas1,
+.kotak-mahindra1 {
+  top: 472px;
+  left: 285.08px;
+  width: 175.6px;
+}
+.canara1,
+.kotak-mahindra1 {
+  top: 206px;
+  left: 588.6px;
+  width: 91.05px;
+  height: 19px;
+}
+.kotak-mahindra1 {
+  top: 472px;
+  left: 16.26px;
+  width: 185.36px;
+  height: 20px;
+}
+.bank-of-baroda1,
+.hdfc1 {
+  position: absolute;
+  top: 208px;
+  height: 19px;
+}
+.bank-of-baroda1 {
+  left: 816.23px;
+  display: inline-block;
+  width: 159.34px;
+}
+.hdfc1 {
+  left: 342.53px;
+  width: 60.7px;
+}
+.hdfc1,
+.icici1,
+.sbi1 {
+  display: inline-block;
+}
+.sbi1 {
+  position: absolute;
+  top: 473px;
+  left: 602.69px;
+  width: 61.79px;
+  height: 20px;
+}
+.icici1 {
+  top: 208px;
+  left: 80.21px;
+  width: 58.53px;
+  height: 19px;
+}
+.div5,
+.icici1,
+.photo1 {
+  position: absolute;
+}
+.photo1 {
+  top: 259px;
+  left: 137px;
+  width: 1005.92px;
+  height: 493px;
+  font-size: var(--font-size-xl);
+}
+.div5 {
+  top: 1786px;
+  left: 0;
+  width: 1280px;
+  height: 1010px;
+}
+.microsoftteams-image-1-216 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  border-radius: var(--br-8xs);
+  width: 191px;
+  height: 85px;
+  object-fit: cover;
+}
+.we-are-a {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  display: inline-block;
+  width: 246px;
+  height: 99px;
+}
+.frame-item {
+  position: absolute;
+  top: 258.75px;
+  left: 4.33px;
+  width: 161.51px;
+  height: 50px;
+}
+.microsoftteams-image-1-2-parent {
+  position: relative;
+  width: 246px;
+  height: 308.75px;
+  flex-shrink: 0;
+}
+.contact-us13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.address {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  display: inline-block;
+  width: 92px;
+  height: 27px;
+}
+.e {
+  font-size: var(--font-size-3xl);
+}
+.enquero-global-a-container {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  color: var(--color-black);
+  display: inline-block;
+  width: 522px;
+  height: 46px;
+  font-size: var(--font-size-xl);
+}
+.address-parent {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  width: 522px;
+  height: 76px;
+}
+.claimlygmailcom,
+.email6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 80px;
+  height: 21px;
+}
+.claimlygmailcom {
+  top: 24px;
+  color: var(--color-black);
+  width: 269px;
+}
+.email-parent,
+.phone {
+  position: absolute;
+  top: 163px;
+  left: 0;
+  width: 269px;
+  height: 45px;
+}
+.phone {
+  top: 0;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.div6,
+.phone-parent {
+  position: absolute;
+  left: 0;
+  width: 199px;
+}
+.div6 {
+  top: 22px;
+  color: var(--color-black);
+  display: inline-block;
+  height: 20px;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.phone-parent {
+  top: 237px;
+  height: 42px;
+}
+.contact-us-parent9 {
+  position: relative;
+  width: 386px;
+  height: 309px;
+  flex-shrink: 0;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-200);
+}
+.footer5,
+.landing-page {
+  width: 100%;
+  overflow: hidden;
+}
+.footer5 {
+  position: absolute;
+  height: 11.03%;
+  top: 88.97%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lavender);
+  display: flex;
+  flex-direction: row;
+  padding: 44px var(--padding-4xl) 64px 97px;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 259px;
+  font-size: 18px;
+}
+.landing-page {
+  position: relative;
+  background-color: var(--color-white);
+  height: 3962px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-ibm-plex-serif);
+}
