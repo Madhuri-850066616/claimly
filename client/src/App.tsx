@@ -67,7 +67,7 @@ function App() {
 
             if (profileObj) {
                 const response = await fetch(
-                    "https://claimly-y7tx.onrender.com/admin/adm",
+                    "/admin/adm",
                     {
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
@@ -154,7 +154,7 @@ function App() {
             <GlobalStyles styles={{ html: { WebkitFontSmoothing: "auto" } }} />
             <RefineSnackbarProvider>
                 <Refine
-                     dataProvider={dataProvider("https://claimly-y7tx.onrender.com/")}
+                     dataProvider={dataProvider("https://random-jl1z.onrender.com")}
 
                     notificationProvider={notificationProvider}
                     ReadyPage={ReadyPage}
