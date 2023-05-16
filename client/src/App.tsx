@@ -67,7 +67,7 @@ function App() {
 
             if (profileObj) {
                 const response = await fetch(
-                    "/admin/adm",
+                    "https://claimly-y7tx.onrender.com/admin/adm",
                     {
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
