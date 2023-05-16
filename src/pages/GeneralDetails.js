@@ -28,7 +28,7 @@ const GeneralDetails = () => {
     if(claims.uin != "" && claims.nominee_name!= "" && claims.policy_number!= "" && claims.nominee_relation!= "" && claims.policy_type!= "" && claims.bank_branch!= "" && claims.account_number!= "" && claims.ifsc_code!="")
     {
   const{uin, nominee_name,policy_number,nominee_relation,policy_type,bank_branch,account_number,ifsc_code} =claims;
-      const res = fetch(`/claims/${id}`,{
+      const res = fetch(`https://random-jl1z.onrender.com/claims/${id}`,{
         method:"PUT",
         headers:{
           "Content-Type":"application/json"

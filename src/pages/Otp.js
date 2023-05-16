@@ -29,7 +29,7 @@ const Otp = () => {
     
     e.preventDefault();
     const{email_id} = user;
-    const res = fetch("/otp/otps",{
+    const res = fetch("https://random-jl1z.onrender.com/otp/otps",{
       method:"POST",
       headers:{
         "content-Type":"application/json"

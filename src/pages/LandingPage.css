@@ -301,6 +301,18 @@
   flex-shrink: 0;
   z-index: 0;
 }
+.about-us1:hover{
+  text-decoration: underline;
+
+}
+.why-us:hover{
+  text-decoration: underline;
+
+}
+.contact-us12:hover{
+  text-decoration: underline;
+
+}
 .contact-us12,
 .why-us {
   left: 85px;
@@ -313,6 +325,9 @@
   text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
   z-index: 2;
 }
+
+  
+  
 .left-text {
   position: absolute;
   height: 26.26%;

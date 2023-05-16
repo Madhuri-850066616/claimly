@@ -352,41 +352,39 @@ border: 0;
   height: 42px;
   color: var(--color-black);
 }
-.claim-inner {
-  cursor: pointer;
-  border: 2px solid var(--color-black);
-  padding: 0;
-  background-color: var(--color-darkslateblue-100);
-  top: 80%;
-  left: 0;
-  border-radius: var(--br-31xl);
-  box-sizing: border-box;
-  width: 228px;
-  height: 49px;
-}
-.claim-inner,
-.claim2,
-.next2 {
-  position: absolute;
-}
-.next2 {
-  top: 47px;
-  left: 82px;
-  font-size: var(--font-size-3xl);
-  font-family: var(--font-ibm-plex-serif);
-  color: var(--color-white);
-  text-align: left;
-}
-.claim2 {
-  cursor: pointer;
-  border: 0;
-  padding: 0;
-  background-color: transparent;
-  top: 531px;
-  left: 774px;
-  width: 228px;
-  height: 49px;
-}
+.claim2{
+
+   position: absolute;
+  
+   width: fit-content;
+  
+   display: inline-block;
+  
+   padding: 10px 20px;
+  
+   background-color: #323b71;
+  
+   cursor: pointer;
+  
+   color: rgb(255, 255, 255);
+  
+   font-size: 18px;
+  
+   text-decoration: none;
+  
+   border: 1px solid #ccc;
+  
+   border-radius: 4px;
+  
+   top:570px;
+  
+   left:774px;
+  
+   width: 160px;
+  
+  }
+
+
 .bike {
   position: relative;
   background-color: var(--color-white);

@@ -27,7 +27,7 @@ const Insurance = () => {
   const handleInsurance = async (insurancetype) => {
     const id = localStorage.getItem('claim_id')
     console.log(id)
-    const res = await fetch(`/claims/${id}`,{
+    const res = await fetch(`https://random-jl1z.onrender.com/claims/${id}`,{
       method:'PUT',
       headers:{
         "content-Type":"application/json"

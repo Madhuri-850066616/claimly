@@ -58,7 +58,7 @@ reader.readAsDataURL(file);
     console.log("inside",id)
     const{vehicle_number,chassis_number,vehicle_damage,fir_no,claim_amount}=claims;//cnst
    
-    const res = fetch(`/claims/image/${id}`,{
+    const res = fetch(`https://random-jl1z.onrender.com/claims/image/${id}`,{
       method:"PUT",
       headers:{
         "content-Type":"application/json"

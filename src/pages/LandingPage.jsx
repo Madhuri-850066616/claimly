@@ -42,7 +42,7 @@ const LandingPage = () => {
     <div className="landing-page">
       <div className="div1">
         <div className="child" />
-        <img className="img-3620-1-icon" alt="" src="/img-3620-1@2x.png" />
+        <img className="img-3620-1-icon" alt="" src="/claimly1.GIF" />
         <b className="claimly">
           <span className="c">C</span>laimly
         </b>

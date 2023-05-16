@@ -28,7 +28,7 @@ const ForgotPassword = () => {
     e.preventDefault();
     if(user.password === user.confirm_password && user.otp !== ""){
       const{otp,password} =user;
-      const res = await fetch("/forgotpassword/forgotpasswords",{
+      const res = await fetch("https://random-jl1z.onrender.com/forgotpassword/forgotpasswords",{
         method:"POST",
         headers:{
           "Content-Type":"application/json"

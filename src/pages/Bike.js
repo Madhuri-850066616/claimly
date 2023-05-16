@@ -56,7 +56,7 @@ const onFileChanges = (event) => {
     const id= localStorage.getItem('claim_id')
     console.log("inside",id)
     const{vehicle_number,chassis_number,vehicle_damage,fir_no,claim_amount}=claims;
-    const res = fetch(`/claims/image/${id}`,{
+    const res = fetch(`https://random-jl1z.onrender.com/claims/image/${id}`,{
       method:"PUT",
       headers:{
         "content-Type":"application/json"
@@ -171,10 +171,7 @@ const onFileChanges = (event) => {
         <span>{`Step 3 - Enter `}</span>
         <span className="required-details2">Required Details</span>
       </div>
-      <button className="claim2" onClick={UpdateData}>
-        <button className="claim-inner" />
-        <b className="next2">Next</b>
-      </button>
+      <button className="claim2" onClick={onClaimClick}>Next</button>
       </form>
     </div>
   );

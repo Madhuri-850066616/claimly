@@ -5,7 +5,6 @@ import React from 'react';
 import { useLocation } from "react-router-dom";
 import Dropdown from './dropdown.js';
 import axios from "axios";
-import { Link } from "react-router-dom";
 const UserPage = () => {
   const location = useLocation();
   const user = location.state.user;
@@ -24,7 +23,7 @@ console.log(userid)
     
      try {
     
-      const response = await axios.get(`/claims/claim/user/${userid}`);
+      const response = await axios.get(`https://random-jl1z.onrender.com/claims/claim/user/${userid}`);
     
       setclaim(response.data);
            console.log(response)
@@ -111,7 +110,7 @@ console.log(userid)
                 <td>{claim.policy_type}</td>
                 <td>{claim.status}</td>
                 <td>{claim.Comments}</td>
-                <td><Link to="../insurance_type">{claim._id}</Link></td>
+                <td>{claim._id}</td>
               </tr>
 
             ))

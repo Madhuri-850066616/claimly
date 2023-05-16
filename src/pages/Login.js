@@ -31,7 +31,7 @@ const Login = () => {
     
     e.preventDefault();
     const{email_id,password} = user;
-    const res = fetch("login/log",{
+    const res = fetch(`https://random-jl1z.onrender.com/login/log`,{
       method:"POST",
       headers:{
         "content-Type":"application/json"

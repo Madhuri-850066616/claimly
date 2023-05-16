@@ -46,7 +46,7 @@ const SignUp = () => {
       else {
   showToast("signup sucessful","success")
       const{name,password,dob,email_id,phone_no} =user;
-      const res = fetch("/users/user",{
+      const res = fetch("https://random-jl1z.onrender.com/users/user",{
         method:"POST",
         headers:{
           "Content-Type":"application/json"

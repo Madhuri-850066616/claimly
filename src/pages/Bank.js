@@ -35,7 +35,7 @@ const Bank = () => {
     
     console.log(selectedBank);
 
-    const res = await fetch('/claims/claim', {
+    const res = await fetch('https://random-jl1z.onrender.com/claims/claim', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

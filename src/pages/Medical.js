@@ -63,7 +63,7 @@ reader.readAsDataURL(file);
     console.log("inside",id)
     const{opd_number,hospital_name,department_name,doa,doctor_name,UHI_ID,claim_amount}=claims;
     console.log("jjj",doa)
-    const res = fetch(`/claims/image/${id}`,{
+    const res = fetch(`https://random-jl1z.onrender.com/claims/image/${id}`,{
       method:"PUT",
       headers:{
         "content-Type":"application/json"

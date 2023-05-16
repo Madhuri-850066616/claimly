@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.960913e8.css",
+    "main.js": "/static/js/main.50f55aa1.js",
+    "static/media/img4@3x.png": "/static/media/img4@3x.4b8a6222dc6e255467d4.png",
+    "static/media/img5@3x.png": "/static/media/img5@3x.27f767272b1a106a9a95.png",
+    "static/media/img7@3x.png": "/static/media/img7@3x.673acee324371aa10399.png",
+    "static/media/img8@3x.png": "/static/media/img8@3x.0d46e835ab4e76f7cde1.png",
+    "static/media/img2@3x.png": "/static/media/img2@3x.895912ff11b3e245fd37.png",
+    "static/media/img6@3x.png": "/static/media/img6@3x.58e92351ea7361fc91d8.png",
+    "static/media/microsoftteamsimage123@3x.png": "/static/media/microsoftteamsimage123@3x.622d6bca2f85aa3ab22a.png",
+    "static/media/img1@3x.png": "/static/media/img1@3x.cf9b64f3b9a80c4f50e3.png",
+    "static/media/microsoftteamsimage124@3x.png": "/static/media/microsoftteamsimage124@3x.3e5f2effdf5fcdba36ee.png",
+    "static/media/img3@3x.png": "/static/media/img3@3x.304a17af4ff21a593eda.png",
+    "static/media/logo@3x.png": "/static/media/logo@3x.ead9c3729576757a01b6.png",
+    "static/media/microsoftteamsimage11@3x.png": "/static/media/microsoftteamsimage11@3x.a5ab4c307827977370af.png",
+    "static/media/logo2@3x.png": "/static/media/logo2@3x.8577f65bd76905ca88d6.png",
+    "index.html": "/index.html",
+    "main.960913e8.css.map": "/static/css/main.960913e8.css.map",
+    "main.50f55aa1.js.map": "/static/js/main.50f55aa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960913e8.css",
+    "static/js/main.50f55aa1.js"
+  ]
+}

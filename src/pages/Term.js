@@ -53,7 +53,7 @@ reader.readAsDataURL(file);
         const id= localStorage.getItem('claim_id')
         console.log("inside",id)
         const{cause_of_death,dod,claim_amount}=claims;
-        const res = fetch(`/claims/image/${id}`,{
+        const res = fetch(`https://random-jl1z.onrender.com/claims/image/${id}`,{
           method:"PUT",
           headers:{
             "content-Type":"application/json"

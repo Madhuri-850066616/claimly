@@ -20,7 +20,7 @@ function Dropdown() {
 
  const logOut = useCallback(() => {
    navigate("/");
-   const res =axios.get('/login/logout')
+   const res =axios.get('https://random-jl1z.onrender.com/login/logout')
  }, [navigate]);
 
   let menuRef = useRef();
