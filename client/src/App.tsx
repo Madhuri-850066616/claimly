@@ -71,11 +71,11 @@ function App() {
                     {
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
-                        // body: JSON.stringify({
-                        //     name: profileObj.name,
-                        //     email: profileObj.email,
-                        //     avatar: profileObj.picture,
-                        // }),
+                        body: JSON.stringify({
+                            name: profileObj.name,
+                            email: profileObj.email,
+                            avatar: profileObj.picture,
+                        }),
                        
                     },
                     
@@ -154,7 +154,7 @@ function App() {
             <GlobalStyles styles={{ html: { WebkitFontSmoothing: "auto" } }} />
             <RefineSnackbarProvider>
                 <Refine
-                     dataProvider={dataProvider("http://localhost:5000")}
+                     dataProvider={dataProvider("https://claimly-y7tx.onrender.com/")}
 
                     notificationProvider={notificationProvider}
                     ReadyPage={ReadyPage}
